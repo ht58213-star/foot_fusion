@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://demo-kappa-mocha-49.vercel.app/sitemap.xml
+Sitemap: https://foot-fusion-sable.vercel.app//sitemap.xml
 
