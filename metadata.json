@@ -1,0 +1,8 @@
+{
+  "name": "FootFusion - Premium Footwear",
+  "description": "Premium footwear designed for comfort, performance, and fashion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
